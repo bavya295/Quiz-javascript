@@ -1,0 +1,36 @@
+.question-s{
+    position: relative;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left:25%;
+    color: rgb(4, 16, 121);
+}
+.options-s{
+    position: relative;
+    top:90%;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    left:35%;
+    color: rgb(12, 11, 11);
+}
+.sub-s{
+    position: relative;
+    background-color: rgb(11, 11, 172);
+    font-size: 50px;
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 40px;
+    left: 900px;
+    padding:10px 25px;
+    top:100px;
+}
+.scr{
+    position: relative;
+    color: rgb(104, 4, 71);
+    font-size: 50px;
+    justify-self: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    left:400px;
+}
